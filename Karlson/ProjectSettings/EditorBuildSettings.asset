@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Scenes/Initialize.unity
+    guid: 3216887460005b549bad4c62b0adde19
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Escape/0Tutorial.unity
+    guid: a64763896fd47fd4da3acc8c2a8d4a47
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Sanbox/1Sandbox0.unity
+    guid: 08a6c9576fe9e9c42852c9f04b00355c
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Sanbox/2Sandbox1.unity
+    guid: d157bb2bd84c3044192638f24be1733d
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Sanbox/3Sandbox2.unity
+    guid: 702cf781f2c58944583830fa5a3fe621
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Escape/4Escape0.unity
+    guid: 16a812b97e9a95146892c6ecb94f5528
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Escape/5Escape1.unity
+    guid: b3f82bd0f4d5e164b80adc89bd187cae
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Escape/6Escape2.unity
+    guid: 2789c66cd3169b649afebeffe532e0e4
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Escape/7Escape3.unity
+    guid: 8bcfbbccffa324b4a983bd3c3b905c40
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Sky/8Sky0.unity
+    guid: 7eb0d80731d245b458c0593d4bada902
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Sky/9Sky1.unity
+    guid: a32fb61da6c578d408e2eed330db9d00
+  - enabled: 1
+    path: Assets/Scene/Scenes/Stages/Sky/10Sky2.unity
+    guid: 51fdc9ea65fdeab419f75ff70a3e291b
+  m_configObjects: {}
